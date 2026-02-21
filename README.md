@@ -1,5 +1,6 @@
-# Stonecold-Engine
-Stonecold Engine made in SCTH, which used in other quandie's projects.
+# Stonecold Engine (SC-Engine)
+Stonecold Engine made in Stonecold: The Heist, which used in other quandie's (and maybe others) projects.
+### Finished by ~80%
 
 ## Features:
 - Downing system
