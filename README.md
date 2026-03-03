@@ -1,4 +1,4 @@
-# Stonecold Engine (SC-Engine)
+# Stonecold(-ish) Engine
 Stonecold Engine made in Stonecold: The Heist, which used in other quandie's (and maybe others) roblox projects.
 ### Finished by ~80%
 
